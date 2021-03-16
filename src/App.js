@@ -1,6 +1,6 @@
 import "./css/reset.css";
 import "./css/global.css";
-import React from "veact";
+import React from "react";
 import Board from "./components/Board";
 import styled from "styled-components";
 import github from "./img/github.png";
