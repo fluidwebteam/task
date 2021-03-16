@@ -35,7 +35,7 @@ const defaultBoardData = {
     position: 1,
     list_title: "done",
     cards: {
-      "63bdd1d2-aa55-4e69-8f98-b345b5b6bdfd": {
+      "Для отримання наступного завдання напиши боту: /task 2fde284e-866c-11eb-8dcd-0242ac130003": {
         position: 0,
         card_content: "some data here"
       },
